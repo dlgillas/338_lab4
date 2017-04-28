@@ -16,3 +16,18 @@
   position: relative;
   top: -200px;
 }
+
+.bottom h1 {
+  color: orange;
+}
+
+.bottom img {
+  width: 100px;
+  position: relative;
+  left: 200px;
+}
+
+.bottom h2 {
+  color: grey;
+  align-items: center;
+}
